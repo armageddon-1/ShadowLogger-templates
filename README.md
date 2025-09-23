@@ -15,6 +15,6 @@ mv ShadowLogger-templates/templates.conf ShadowLogger/Templates/
 ```
 ### 3. Copy templates into ShadowLogger/Templates
 ```
-cp ShadowLogger-templates/* ShadowLogger/Templates
+cp ShadowLogger-templates/* ShadowLogger/Templates -r
 ```
 ### 3. You are ready to go
