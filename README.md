@@ -4,6 +4,17 @@
 This repository contains templates for my project [ShadowLogger](https://github.com/ARMed0ps/ShadowLogger/).
 
 ## Setup
-### 1. Copy the desired template into ShadowLogger/Templates
-### 2. Add "(Name)|(Path)|(Description)" to templates.conf
+### 1. Clone the rep
+```
+git clone https://github.com/ARMed0ps/ShadowLogger-templates.git
+```
+### 2. Move templates.conf and remove extra files
+```
+rm ShadowLogger-templates/README.md ShadowLogger-templates/LICENSE
+mv ShadowLogger-templates/templates.conf ShadowLogger/Templates/
+```
+### 3. Copy templates into ShadowLogger/Templates
+```
+cp ShadowLogger-templates/* ShadowLogger/Templates
+```
 ### 3. You are ready to go
