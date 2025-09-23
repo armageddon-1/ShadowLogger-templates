@@ -11,7 +11,7 @@ git clone https://github.com/ARMed0ps/ShadowLogger-templates.git
 ### 2. Move templates.conf and remove extra files
 ```
 rm ShadowLogger-templates/README.md ShadowLogger-templates/LICENSE
-mv ShadowLogger-templates/templates.conf ShadowLogger/Templates/
+mv ShadowLogger-templates/templates.conf ShadowLogger/
 ```
 ### 3. Copy templates into ShadowLogger/Templates
 ```
