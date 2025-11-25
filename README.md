@@ -6,7 +6,7 @@ This repository contains templates for my project [ShadowLogger](https://github.
 ## Setup
 ### 1. Clone the repo
 ```
-git clone https://github.com/ARMed0ps/ShadowLogger-templates.git
+git clone https://github.com/armageddon-1/ShadowLogger-templates.git
 ```
 ### 2. Remove extra files
 ```
