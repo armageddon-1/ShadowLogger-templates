@@ -1,17 +1,16 @@
 # ShadowLogger-templates
 
 ## Overview
-This repository contains templates for my project [ShadowLogger](https://github.com/ARMed0ps/ShadowLogger/).
+This repository contains templates for my project [ShadowLogger](https://github.com/armageddon-1/ShadowLogger/).
 
 ## Setup
 ### 1. Clone the repo
 ```
 git clone https://github.com/ARMed0ps/ShadowLogger-templates.git
 ```
-### 2. Move templates.conf and remove extra files
+### 2. Remove extra files
 ```
 rm ShadowLogger-templates/README.md ShadowLogger-templates/LICENSE
-mv ShadowLogger-templates/templates.conf ShadowLogger/
 ```
 ### 3. Copy templates into ShadowLogger/Templates
 ```
